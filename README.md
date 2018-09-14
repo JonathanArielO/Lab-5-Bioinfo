@@ -1,5 +1,5 @@
 # Laboratorio 05 - Metagenómica
-## Plataforma MG-RAST y exploración de metagenomas
+### Plataforma MG-RAST y exploración de metagenomas
 #### 1. ¿Cuántas secuencias fueron subidas?
 
 #### 2. ¿Qué tipo de plataforma de secuenciamiento fue usada para producir estos datos?
