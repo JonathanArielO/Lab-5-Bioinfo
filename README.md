@@ -17,6 +17,8 @@ Fueron subidas 120.671 sequencias.
 #### 8. ¿Por qué hay tan pocas secuencias con funciones asignadas según SwissProt?
 
 ## Análisis de metagenomas
+#### 9. ¿Cuántas secuencias mapearon en contra de Proteobacteria?
 
+#### 10. ¿Cuántas secuencias de Salmonella (Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae) fueron identificadas?
 
 
