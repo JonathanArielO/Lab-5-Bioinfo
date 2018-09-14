@@ -1,5 +1,5 @@
 # Laboratorio 05 - Metagenómica
-### Plataforma MG-RAST y exploración de metagenomas
+## Plataforma MG-RAST y exploración de metagenomas
 #### 1. ¿Cuántas secuencias fueron subidas?
 Fueron subidas 120.671 sequencias.
 #### 2. ¿Qué tipo de plataforma de secuenciamiento fue usada para producir estos datos?
@@ -16,7 +16,7 @@ Fueron subidas 120.671 sequencias.
 
 #### 8. ¿Por qué hay tan pocas secuencias con funciones asignadas según SwissProt?
 
-### Análisis de metagenomas
+## Análisis de metagenomas
 
 
 
