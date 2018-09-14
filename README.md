@@ -8,7 +8,7 @@ Fueron subidas 120671 sequencias.
 
 #### 4. ¿Cuántos otros metagenomas están disponibles para el bioma “marine habitat”?
 
-#### 5. ¿Cuántas reads fueron asignadas a eucariontes según MG-RAST?
+#### 5. ¿Cuántas secuencias fueron asignadas a eucariontes según MG-RAST?
 
 #### 6. ¿Cuál es el filo (Phylum) más abundante en la muestra?
 El phylum más abundante fue el de las Cyanobacterias  22,956 lo que equivale al 37.03%
