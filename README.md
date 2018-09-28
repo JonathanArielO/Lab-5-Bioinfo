@@ -18,7 +18,9 @@ A 7960 secuencias se les asignó una función de acuerdo a la base de datos KEGG
 Existen pocas secuencias con funciones asignadas según SwissProt, debido a que esta es una fuente bioinformática curada, lo que significa que se invierte mucho más tiempo en corroborar la información y por consecuencia hay menos.
 ## Análisis de metagenomas
 #### 9. ¿Cuántas secuencias mapearon en contra de Proteobacteria?
-
+Se secuenciaron 26387 secuencias de Proteobacterias.
 #### 10. ¿Cuántas secuencias de Salmonella (Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae) fueron identificadas?
+Fueron identificadas 77 secuencias de Salmonella, 12554 de Gammaproteobacteria, 1058 de Enterobacterias y 1058 para enterobacteriaceae.
+
 
 
